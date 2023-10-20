@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1696992069 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\src\person.cpp
+	"Person.h"
+
+1696985330 c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\include\person.h
+	<string>
+
+1696992069 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\src\professor .cpp
+	"Professor .h"
+
+1696991128 c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\include\professor .h
+	<string>
+	<Person.h>
+
+1696988203 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\src\student.cpp
+	"Student.h"
+	<string>
+
+1696992069 c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\include\student.h
+	<string>
+	"Person.h"
+
+1696991831 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project2\main.cpp
+	<iostream>
+	"Person.h"
+	"Student.h"
+	"Professor .h"
+
