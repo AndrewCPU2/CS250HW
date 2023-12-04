@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1701650405 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project 5\src\dogs.cpp
+	"dogs.h"
+	<iostream>
+	<string>
+	<unordered_map>
+	<fstream>
+
+1701650318 c:\users\owner\onedrive\documents\cs250\cs250 homework\project 5\include\dogs.h
+	<iostream>
+	<string>
+	<unordered_map>
+	<fstream>
+
+1701649524 source:c:\users\owner\onedrive\documents\cs250\cs250 homework\project 5\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<fstream>
+	"dogs.h"
+
